@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, World. My name is Aaron
+
+#### I am currently working on
+ApiFax, a ceefax/teletext inspired single page app that makes use of public API services.
+
+#### I am currently learning
+Web development, Javascript, SASS, Node, Github collaboration.
+
+#### In my own time
+I also enjoy working with Python, Bash and C, for various kinds of projects. I also play with skateboards.
+
 
 <!--
 **aaron-watts/aaron-watts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
