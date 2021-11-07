@@ -9,6 +9,10 @@ Web development, Javascript, SASS, Node, Github collaboration.
 #### In my own time
 I also enjoy working with Python, Bash and C, for various kinds of projects. I also play with skateboards.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaron-watts&count_private=true&showicons=true&theme=gruvbox)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-watts&langs_count=5&theme=gruvbox)]()
+
 
 <!--
 **aaron-watts/aaron-watts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
