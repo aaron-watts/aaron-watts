@@ -11,7 +11,9 @@ I also enjoy working with Python, Bash and C, for various kinds of projects. I a
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaron-watts&count_private=true&showicons=true&theme=gruvbox)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-watts&langs_count=5&theme=gruvbox)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaron-watts&theme=gruvbox)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-watts&langs_count=5&theme=gruvbox&layout=compact)]()
 
 
 <!--
