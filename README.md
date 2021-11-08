@@ -9,7 +9,11 @@ Web development, Javascript, SASS, Node, Github collaboration.
 #### In my own time
 I also enjoy working with Python, Bash and C, for various kinds of projects. I also play with skateboards.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron-watts&repo=apifax&theme=gruvbox)](https://github.com/aaron-watts/github-readme-stats)
+<!-- jjaimealeman/wdb-get-good-with-git -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjaimealeman&repo=wdb-get-good-with-git&show_owner=true&theme=gruvbox)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron-watts&repo=apifax&theme=gruvbox)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aaron-watts&count_private=true&showicons=true&theme=gruvbox)]()
 
