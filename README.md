@@ -1,19 +1,25 @@
-### Hello, World. My name is Aaron
+<h1 align=center>Hello, World! I'm Aaron Watts 😃</h1>
 
-#### I am currently working on
-ApiFax, a ceefax/teletext inspired single page app that makes use of public API services.
+<!-- 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg -->
 
-#### I am currently learning
-Web development, Javascript, SASS, Node, Github collaboration.
+### My Toolbox 🧰
 
-#### In my own time
-I also enjoy working with Python, Bash and C, for various kinds of projects. I also play with skateboards.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaron-watts&theme=gruvbox&column=3&margin-w=15&margin-h=15)](https://github.com/aaron-watts/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjaimealeman&repo=wdb-get-good-with-git&show_owner=true&theme=gruvbox)]()
+### I am currently working on..
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron-watts&repo=KioskExpressApp_V2.x&show_owner=true&theme=gruvbox)](https://github.com/aaron-watts/KioskExpressApp_V2.x)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron-watts&repo=apifax&theme=gruvbox)]()
+### I am contributing to..
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjaimealeman&repo=wdb-get-good-with-git&show_owner=true&theme=gruvbox)](https://github.com/jjaimealeman/wdb-get-good-with-git)
+
+### My pet projects..
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron-watts&repo=apifax&show_owner=true&theme=gruvbox)](https://github.com/aaron-watts/apifax)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron-watts&repo=theFlatspotGuide&show_owner=true&theme=gruvbox)](https://github.com/aaron-watts/theFlatspotGuide)
+
 
 [![My GutHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-watts&show_icons=true&locale=en&theme=gruvbox)]()
 
