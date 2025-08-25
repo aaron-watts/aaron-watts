@@ -37,7 +37,7 @@ Hobbyist and specialist at no cost solutions. Have provided zero cost solutions 
 - RetroPie home console with wii mote lightgun
 - GpiCase handheld
 - Rpi4 Raspbian KDE Big Screen streaming device
-- Rpi4 Volumio ttouch screen web radio and music streaming device
+- Rpi4 Volumio touch screen web radio and music streaming device
 - Pico media macro keyboard
 - Pico digital clock
 
