@@ -7,7 +7,7 @@
 ----
  
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tmux/tmux-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="50" height="50">
 </div>
 
 ----
@@ -33,9 +33,11 @@ Hobbyist and specialist at no cost solutions. Have provided zero cost solutions 
 
 ## Personal Projects In Current Use
 
-- [aaronwattsdev.com](https://aaronwattsdev.com)
+- [aaronwatts.dev](https://aaronwatts.dev)
+- [tv.aaronwatts.dev](https://tv.aaronwatts.dev) Send shows to a Google Calendar
 - RetroPie home console with wii mote lightgun
 - GpiCase handheld
+- Rpi4 KDE Plasma BigScreen smart TV
 - Rpi4 Raspbian KDE Big Screen streaming device
 - Rpi4 Volumio touch screen web radio and music streaming device
 - Pico media macro keyboard
