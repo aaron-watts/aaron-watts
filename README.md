@@ -12,7 +12,7 @@
 
 ----
 
-Hobbyist and specialist at no cost solutions. Have provided zero cost solutions that improve efficiency at work using various methods and technologies. I'll write a macro for you for a six pack of beer!
+I'm a hobbyist. I learn things and make stuff. For fun! Sometimes I make useful things to be used in the real world - these are normally when a low-to-no-cost solution is required to solve a problem.
 
 ## Tech Interests
 
@@ -33,8 +33,9 @@ Hobbyist and specialist at no cost solutions. Have provided zero cost solutions 
 
 ## Personal Projects In Current Use
 
-- [aaronwatts.dev](https://aaronwatts.dev)
-- [tv.aaronwatts.dev](https://tv.aaronwatts.dev) Send shows to a Google Calendar
+- [aaronwatts.dev](https://aaronwatts.dev) *My main website: a collection of some of the things I find interesting*
+- [blog.aaronwatts.dev](https://blog.aaronwattts.dev) *My blog: things that don't fit into my websites themes or topics*
+- [tv.aaronwatts.dev](https://tv.aaronwatts.dev) *Send shows to a Google Calendar*
 - RetroPie home console with wii mote lightgun
 - GpiCase handheld
 - Rpi4 KDE Plasma BigScreen smart TV
