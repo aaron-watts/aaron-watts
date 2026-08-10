@@ -34,7 +34,7 @@ I'm a hobbyist. I learn things and make stuff. For fun! Sometimes I make useful 
 ## Personal Projects In Current Use
 
 - [aaronwatts.dev](https://aaronwatts.dev) *My main website: a collection of some of the things I find interesting*
-- [blog.aaronwatts.dev](https://blog.aaronwatts.dev) *My blog: things that don't fit into my websites themes or topics*
+- ~~[blog.aaronwatts.dev](https://blog.aaronwatts.dev) *My blog: things that don't fit into my websites themes or topics*~~ replaced by [aaronwats.dev blog feed](https://aaronwatts.dev/blog/)
 - [tv.aaronwatts.dev](https://tv.aaronwatts.dev) *Send shows to a Google Calendar*
 - RetroPie home console with wii mote lightgun
 - GpiCase handheld
