@@ -38,7 +38,7 @@ I'm a hobbyist. I learn things and make stuff. For fun! Sometimes I make useful 
 - [tv.aaronwatts.dev](https://tv.aaronwatts.dev) *Send shows to a Google Calendar*
 - RetroPie home console with wii mote lightgun
 - GpiCase handheld
-- Rpi4 KDE Plasma BigScreen smart TV
+- Rpi5 KDE Plasma BigScreen smart TV
 - Rpi4 Volumio touch screen web radio and music streaming device
 - Pico media macro keyboard
 - Pico digital clock
